@@ -61,3 +61,25 @@ https://t.me/proxy?server=185.3.200.172&port=4455&secret=ee1603010200010001fc030
 https://t.me/proxy?server=Iphone-android-windows.be-name-allah.info.&port=88&secret=7nnnAQIAAQAH8AMDhuJMOt0%3D
 
 Provider: @YamYamProxy
+https://t.me/proxy?server=85.133.194.120&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=85.133.194.121&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=85.133.194.122&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=85.133.194.109&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+https://t.me/proxy?server=85.133.194.130&port=8443&secret=eeNEgYdJvXrFGRMCIMJdCQ
+
+Provider: @YamYamProxy
+بعد این که گفتم چنتا از کی پاپ فنا بهم پیام دادن 
+حالا از کجا پیویمو پیدا کردن نمیدونم ولی اگه بفهمم کدومتونید خودتونو فامیلاتون رو بن میکنم
+vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?path=%2F&security=tls&encryption=none&host=dev.twistsparrow.xyz&fp=chrome&type=ws&sni=dev.twistsparrow.xyz#%40YamYamProxy
+vless://b5723cdf-f34c-4675-b12d-40v2rmelidb43db7283d0@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#%40YamYamProxy
+vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip3-cloud.tyryqyserver.ir:8080?mode=auto&security=none&encryption=none&extra=%7B%22scMaxEachPostBytes%22%3A%201000000%2C%20%22scMaxConcurrentPosts%22%3A%20100%2C%20%22scMinPostsIntervalMs%22%3A%2030%2C%20%22xPaddingBytes%22%3A%20%22100-1000%22%2C%20%22noGRPCHeader%22%3A%20false%7D&host=norbert-cloud-de.max-pro-service.ir&type=xhttp#%40YamYamProxy
+vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip3-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#%40YamYamProxy
+vless://b5723cdf-f34c-4675-b12d-db43db7283d0@tun1-norbert.norbertvip-conf.site:9900?security=none&encryption=none&host=zarebin.ir&headerType=http&type=tcp#%40YamYamProxy
+vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip2-cloud.tyryqyserver.ir:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=norbert-cloud-de.ocean-pro.top&type=ws#%40YamYamProxy
+vless://dbb8cb8a-875f-411d-b8b8-0cbe57b6fc59@81.12.91.177:443?security=reality&encryption=none&pbk=U6FRH-QtDwZPWgVlOnm3TTcknf2uZMB4j4IZJoi8ezM&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=firefox&spx=%2Fexample&type=tcp&sni=git-scm.com&sid=e081d94bd1f9bd56#%40YamYamProxy%20%F0%9F%92%9A
+vless://50b95deb-6394-46c5-b88a-583e5b3ca7ee@178.250.243.102:443?security=reality&encryption=none&pbk=PGccrEdFmBaB1rQFJqM-a9jJ1pFsxhUP2sD9KTw5Oz4&host=%2F%3FBIA_TELEGRAM%40YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy_YamYamProxy&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=eh.vk.com&sid=f69d7af2d5fc5e0c#%40YamYamProxy%20%F0%9F%92%9A
+Provider: @YamYamProxy
