@@ -21,6 +21,7 @@ vless://251c9e28-bde2-45c8-bbff-e26d8d06d236@g2liliadasosjjds.nationalldt.com:19
 vless://289f7608-8995-4165-9f3a-3612577190bb@creativecommons.org:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#%E2%9A%A1Tel%20%3D%20%40
 vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=dojman.global.ssl.fastly.net#%E2%9A%A1Tel%20%3D%20%40llFreak
 vless://37aa544d-c729-4dd8-bebf-376311d3c2cf@cfip2.mamady.ir:8443?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&host=fr1.mamady.ir&fp=random&type=ws&allowInsecure=0&sni=fr1.mamady.ir#%25F0%259F%2587%25AB%25F0%259F%2587%25B7%2520France
+vless://3fb84dc6-9ff6-46a1-a363-951470e895ac@206.189.3.112:8080?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#T.me/HAJALI_619
 vless://435bda4c-fe5e-42c9-a3ad-15334943b38a@104.18.91.194:80?security=none&type=ws&host=us3.rtacg.com&path=/#t.me/llFreak
 vless://48dcd2ca-0c9d-473c-a09d-03b1f7c072b6@vnn.vpnfreedom.tech:443?security=reality&encryption=none&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=81#%E2%9A%A1Tel%20%3D%20%40llFreak
 vless://4c3be7dc-be25-4d64-9639-9494d22a4664@f1.springpaatogh8.store:2053?path=%2F%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=chess.sorza.ir&type=ws&allowInsecure=0&sni=digikala.sorza.ir#%40llFreak
