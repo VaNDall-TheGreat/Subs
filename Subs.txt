@@ -37,6 +37,7 @@ vless://16da1b90-2f32-4dc9-8bd2-08c642057654@46.225.9.164:4450?security=reality&
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#@sogoandfuckyourlove
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40Black_Star_Vpn%20%E2%9A%A1%F0%9F%94%A5%F0%9F%94%A5
+vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp#%40tazaxy%20%E2%9A%A1%20%D8%A7%D8%AE%D8%AA%D8%B5%D8%A7%D8%B5%DB%8C%20%D9%87%D9%85%D8%B1%D8%A7%D9%87%20%D8%A7%D9%88%D9%84
 vless://1a94fbd9-79d2-4aa7-bf1d-074f678d27ab@104.20.1.252:80?security=none&allowInsecure=0&encryption=none&type=ws&host=EqUiPPed-phOToZkoA7K5e6P.eCoTOuRiss.Co.uk.&path=/?ed#@sogoandfuckyourlove
 vless://1b6336a7-c891-47ec-9adf-57d4c8174669@teamnim.ir:3446?security=none&allowInsecure=0&encryption=none&type=tcp&path=/&headerType=http#@sogoandfuckyourlove
 vless://1bacbe3f-fa7b-493b-9187-fd3e23153980@88.209.249.38:2626?mode=auto&path=%2F%40bitnetvpn&security=none&encryption=none&host=bitnetvpn.com&type=xhttp#%F0%9F%87%B9%F0%9F%87%B7%20freev2cn
