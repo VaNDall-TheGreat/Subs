@@ -27,6 +27,7 @@ trojan://humanity@:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInse
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 vless://00952108-bcfa-453c-94c4-e137082a45f1@172.104.141.73:39871?security=none&encryption=none&host=divar.ir&headerType=http&type=tcp#%F0%9F%92%9C%F0%9D%92%84%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D%20%F0%9F%91%89%20%40llFreak%20%F0%9F%92%9C
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.69.92.233:22224?type=ws&security=tls&path=%2Ftelegram-channel-KalaqsWorld&sni=trojan.burgerip.co.uk#@KalaqsWorld
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#@sogoandfuckyourlove
 vless://06a2f75b-2ab3-4356-aa5e-18729e71c449@fonken.izumii.ir:8880?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#@sogoandfuckyourlove
 vless://06a2f75b-2ab3-4356-aa5e-18729e71c449@ip3.kakeroo.ir:80?path=%2F&security=none&encryption=none&host=kalamsi666.global.ssl.fastly.net&type=ws#%E2%9A%A1Telegram%20%3D%20%40prrofile_purple
