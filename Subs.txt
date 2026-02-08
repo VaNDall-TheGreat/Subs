@@ -12,6 +12,9 @@ trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&f
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#@sogoandfuckyourlove
 vless://06a2f75b-2ab3-4356-aa5e-18729e71c449@fonken.izumii.ir:8880?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#@sogoandfuckyourlove
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#@sogoandfuckyourlove
+vless://30acd2d9-59fd-4464-b844-cf2d6360f2ea@chatgpt.com:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=rusiie.kafeistanbul.shop&sni=rusiie.kafeistanbul.shop&fp=chrome#
+vless://30acd2d9-59fd-4464-b844-cf2d6360f2ea@lit.litiran.ir:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=image-it.kafeistanbul.shop&sni=image-it.kafeistanbul.shop&fp=chrome#
+vless://30acd2d9-59fd-4464-b844-cf2d6360f2ea@lit.litiran.ir:2083?security=tls&allowInsecure=0&encryption=none&type=ws&host=videogame-ge.kafeistanbul.shop&sni=videogame-ge.kafeistanbul.shop&fp=chrome#
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.136:9830?security=none&allowInsecure=0&encryption=none&type=tcp&host=pro30afzar.com&path=/&headerType=http#@sogoandfuckyourlove
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?security=none&allowInsecure=0&encryption=none&type=tcp&host=pro30afzar.com&path=/&headerType=http#@sogoandfuckyourlove
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?security=none&allowInsecure=0&encryption=none&type=tcp&host=pro30afzar.com&path=/&headerType=http#@sogoandfuckyourlove
