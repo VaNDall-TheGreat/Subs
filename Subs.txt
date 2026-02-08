@@ -1,0 +1,1 @@
+vless://f8157b85-ba98-436a-b868-e109947813fb@mci.farsnews.fun:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto#@sogoandfuckyourlove
