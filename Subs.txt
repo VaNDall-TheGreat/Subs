@@ -1,5 +1,6 @@
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5T0RMWFZMejJGV05URmVTU25nM0Zt@136.244.100.113:443#%F0%9F%92%9C%F0%9D%92%84%F0%9D%92%89%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8F%F0%9D%92%86%F0%9D%92%8D%20%F0%9F%91%89%20%40llFreak%20%F0%9F%92%9C%DB%B7
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphYjBiODFhNWJmZjdkZGVhQDU3LjEyOS4xMjkuMTM5OjI5MTgz#@sogoandfuckyourlove
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjg1M2Y5YmI4Nzc3NzM0@57.129.94.79:11207#@llFreak
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMjg1M2Y5YmI4Nzc3NzM0QDU3LjEyOS45NC43OToxMTIwNw==#@sogoandfuckyourlove
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5@57.129.95.78:11201#%40SwagMeli%20692
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplMGU0MDE0YmIyMmY3MzI5QDU3LjEyOS45NS43ODoxMTIwMQ==#@sogoandfuckyourlove
@@ -80,6 +81,8 @@ vless://c03a34be-4267-4763-b35f-5a5b5d3bcf80@77.107.88.4:1616?mode=auto&path=%2F
 vless://d57fd975-5ff1-4911-a14a-6538996d93cd@at.asbndx.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=at.asbndx.com&sid=2f4dacf62222e15f&fp=qq&pbk=hfJagZHzXLZaHqiyy59ZwnPFytw9WUMu1RGh29o3aVE&headerType=none#@sogoandfuckyourlove
 vless://d57fd975-5ff1-4911-a14a-6538996d93cd@ru.asbndx.com:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=ru.asbndx.com&sid=0f4dacf89993e20f&fp=qq&pbk=jm1tsCkTKsXunYTjcdHLu_whRQRkZWlWdGbSFDVyREw&headerType=none#@sogoandfuckyourlove
 vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.80:1488?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=ads.x5.ru&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none#@sogoandfuckyourlove
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegram---%40llFreak%2F---%40llFreak%2F---llFreak%2F---%40llFreak&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#%E2%9A%A1Telegram%20%3D%20%40llFreak
+vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?path=%2F--Telegram---%40llFreak%2F---%40llFreal%2F---llFreak%2F---%40llFreak&security=tls&encryption=none&insecure=0&host=cdn.abcallcenter.com&fp=chrome&type=ws&allowInsecure=0&sni=cdn.abcallcenter.com#%E2%9A%A1Telegram%20%3D%20%40llFreak
 vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@172.67.180.92:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.abcallcenter.com&path=/--Telegram---@MiTiVPN/---@MiTiVPN/---MiTiVPN/---@MiTiVPN&sni=cdn.abcallcenter.com&fp=chrome#@sogoandfuckyourlove
 vless://dd9c0ccd-1aeb-4f2d-9ab1-5f6996518c77@78.159.131.5:443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=al.cdn.stun.su&sid=f6f88b14adc6f641&fp=chrome&pbk=su3dq3BDLDkX-jIjq3GyVUXwqzD7CNVYzKtOcO4HQ24&headerType=none#
 vless://df6787e3-6683-436a-8282-b90a07f0aa16@armen.izumii.ir:8080?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#%F0%9F%87%A6%F0%9F%87%B2%7C%20%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C%20%40FastNetTools
