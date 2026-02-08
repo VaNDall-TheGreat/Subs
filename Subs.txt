@@ -188,6 +188,7 @@ vless://af1aafa2-a54c-46ba-b57e-eb5b621a8462@185.18.250.179:443?security=tls&all
 vless://b07560e0-c960-4f23-a267-f3c877f334e3@178.239.146.241:500?security=none&type=tcp&headerType=http&path=%2F&host=#t.me/llFreak
 vless://b2bf1a8f-6f12-4ec8-8c1f-9b0dd8dca205@pishj.afti1.sfhre2.lili1.mimkiscx.ir:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=harro-likeh1.sdcards1.ir&fp=chrome&alpn=h2,http/1.1#@sogoandfuckyourlove
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?security=none&allowInsecure=0&encryption=none&type=tcp&host=myket.ir&path=/&headerType=http#@sogoandfuckyourlove
+vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=none&allowInsecure=0&encryption=none&type=tcp&host=myket.ir&path=/&headerType=http#تلگرام:
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40Black_Star_Vpn%20%F0%9F%94%A5
 vless://b5723cdf-f34c-4675-b12d-40v2rmelidb43db7283d0@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#%40YamYamProxy
 vless://b5723cdf-f34c-4675-b12d-db43db7283d0@ip2-cloud.tyryqyserver.ir:2052?path=%2F%3Fed%3D2053&security=none&encryption=none&host=norbert-cloud-de.ocean-pro.top&type=ws#%40YamYamProxy
