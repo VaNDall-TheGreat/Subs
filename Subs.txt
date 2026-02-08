@@ -154,6 +154,7 @@ vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@78.157.47.49:1162?security=none&enc
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@78.157.47.50:8018?security=none&encryption=none&host=skyroom.online%2Cgharar.ir%2Cigap.net&headerType=http&type=tcp#%40YamYamProxy
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@85.192.30.173:8086?security=reality&encryption=none&pbk=OIYG0kOVwCLP_Zkw_-uKRwX0jCcJkZxMADpTML4n0yU&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=9b1a0779152db496#%40YamYamProxy
 vless://9cae7b92-c1b0-487f-b5e8-63b6bc7243da@89.208.105.162:8085?security=reality&encryption=none&pbk=OIYG0kOVwCLP_Zkw_-uKRwX0jCcJkZxMADpTML4n0yU&headerType=none&fp=firefox&type=tcp&sni=stackoverflow.com&sid=9b1a0779152db496#%40YamYamProxy
+vless://af1aafa2-a54c-46ba-b57e-eb5b621a8462@185.18.250.179:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=cdn.graphapp.ir&path=/ws?ed%3D2560&sni=cdn.graphapp.ir&fp=chrome#@sogoandfuckyourlove
 vless://b07560e0-c960-4f23-a267-f3c877f334e3@178.239.146.241:500?security=none&type=tcp&headerType=http&path=%2F&host=#t.me/llFreak
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@gr.v2online3.site:31837?security=none&encryption=none&host=myket.ir&headerType=http&type=tcp#%40Black_Star_Vpn%20%F0%9F%94%A5
 vless://b5723cdf-f34c-4675-b12d-40v2rmelidb43db7283d0@ip2-fast.tyryqyserver.ir:80?path=%2F%3Fed%3D2052&security=none&encryption=none&host=norbertde1.global.ssl.fastly.net&type=ws#%40YamYamProxy
