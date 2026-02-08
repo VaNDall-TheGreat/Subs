@@ -3,6 +3,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMXY1ZzlGZWZkb08=@57.129.140.88:8388#t.me/llFreak
 trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=1&host=www.multiplydose.com&fp=chrome&type=ws&allowInsecure=1&sni=www.multiplydose.com#Telegram%20%E2%80%A2%20%40llFreak%20%7C%206
 vless://16352455-c295-4cdd-b5f7-28b29c919389@94.237.81.80:35908?security=reality&encryption=none&pbk=pU_Qz5A2QWbZ0pGhSshgnmCSc_MM0PORAx1KkPsAg2Y&headerType=&fp=firefox&type=tcp&sni=www.aparat.com&sid=fce3c084cd#llFreak
+vless://251c9e28-bde2-45c8-bbff-e26d8d06d236@g2liliadasosjjds.nationalldt.com:19667?security=none&encryption=none&host=igap.net&headerType=http&type=tcp#%40llFreak
 vless://289f7608-8995-4165-9f3a-3612577190bb@creativecommons.org:443?path=%2Fws&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=dl98.hexo-music.ir#%E2%9A%A1Tel%20%3D%20%40
 vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?path=%2Fcontainers%2Ffi&security=tls&alpn=http%2F1.1&encryption=none&insecure=1&host=dojman.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=dojman.global.ssl.fastly.net#%E2%9A%A1Tel%20%3D%20%40llFreak
 vless://48dcd2ca-0c9d-473c-a09d-03b1f7c072b6@vnn.vpnfreedom.tech:443?security=reality&encryption=none&pbk=odbiaA-5s0mkehtfrf2SBcrKAMDP1sFjxKHJYdDCKgc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=81#%E2%9A%A1Tel%20%3D%20%40llFreak
