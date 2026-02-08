@@ -6,6 +6,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjY
 ss://YWVzLTEyOC1nY206OVlhNVE2eFhha281MUVGWnRPV0RYbWJFczRHanc5SVVANDUuODIuNjcuMzg6MTY0ODU=#@sogoandfuckyourlove
 ss://YWVzLTEyOC1nY206RjlmQmlDTlJnZUE4eUtCZHNQVklrc3NMSnpUUWZibjBAMTczLjIyNS4xMDYuMTE3OjEyNDg0#@sogoandfuckyourlove
 trojan://humanity@:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
+trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#@sogoandfuckyourlove
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#@sogoandfuckyourlove
@@ -17,3 +18,4 @@ vless://d6b1327d-2bec-4366-a3a1-9b1284f95841@178.250.246.80:1488?flow=xtls-rprx-
 vless://f8157b85-ba98-436a-b868-e109947813fb@mci.farsnews.fun:80?security=none&allowInsecure=0&encryption=none&type=xhttp&path=/&mode=auto#@sogoandfuckyourlove
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?security=tls&allowInsecure=0&encryption=none&type=ws&host=dev.twistsparrow.xyz&path=/&sni=dev.twistsparrow.xyz&fp=chrome#@sogoandfuckyourlove
 vless://fef4a93d-eb4f-4657-b56b-32a0dc060045@188.114.98.0:443?security=tls&allowInsecure=0&encryption=none&type=ws&path=/&sni=dev.twistsparrow.xyz&fp=chrome#@sogoandfuckyourlove
+vmess://eyJuZXQiOiJ3cyIsImZwIjoiIiwicG9ydCI6IjgwIiwicHMiOiJAc29nb2FuZGZ1Y2t5b3VybG92ZSIsImRldmljZUlEIjoiIiwidiI6IjIiLCJzbmkiOiIiLCJoZWFkZXJUeXBlIjoiIiwidHlwZSI6Im5vbmUiLCJmcmFnbWVudCI6IiIsImV4dHJhIjoiIiwiaG9zdCI6IiIsImFpZCI6IjAiLCJhZGQiOiJ0cjEtc21hcnQuYWRlbHBpbmcuY29tIiwiaWQiOiI0M2RjZGNlMS0zY2VhLTQxOTMtYmM4ZC05MGI5MjA3MWQ3NzkiLCJ0bHMiOiJub25lIiwicGF0aCI6IiIsInNlcnZpY2VOYW1lIjoibm9uZSIsInNlZWQiOiIiLCJtb2RlIjoiIiwiYWxwbiI6IiJ9
