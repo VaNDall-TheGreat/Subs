@@ -10,12 +10,14 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.101:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNBQDgyLjM4LjMxLjYxOjgwODA=#@sogoandfuckyourlove
 ss://YWVzLTEyOC1nY206OVlhNVE2eFhha281MUVGWnRPV0RYbWJFczRHanc5SVVANDUuODIuNjcuMzg6MTY0ODU=#@sogoandfuckyourlove
 ss://YWVzLTEyOC1nY206RjlmQmlDTlJnZUE4eUtCZHNQVklrc3NMSnpUUWZibjBAMTczLjIyNS4xMDYuMTE3OjEyNDg0#@sogoandfuckyourlove
+trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&fp=chrome&type=ws&sni=www.creationlong.org#%F0%9F%87%A9%F0%9F%87%AAAll%E2%81%B4%20%7C%20%40BigSmoke_Config%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%88%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7
 trojan://humanity@172.64.152.23:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#%40SwagMeli%20685
 trojan://humanity@:443?security=tls&sni=www.multiplydose.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 trojan://humanity@www.creationlong.org:443?security=tls&sni=www.creationlong.org&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 trojan://humanity@www.gossipglove.com:443?security=tls&sni=www.gossipglove.com&fp=chrome&allowInsecure=0&type=ws&path=/assignment#@sogoandfuckyourlove
 vless://05dc09d5-5c56-454b-a34e-6ef743d91e1a@switzerland.boot-lee.ru:8443?flow=xtls-rprx-vision&security=reality&allowInsecure=0&encryption=none&type=tcp&sni=m.vk.com&sid=5fe811ec9283ce51&fp=chrome&pbk=uPi8pw3m5KwGSNE1uHi0y_GbKBJwAD0-b6hrNsJBnh8&headerType=none#@sogoandfuckyourlove
 vless://06a2f75b-2ab3-4356-aa5e-18729e71c449@fonken.izumii.ir:8880?security=none&allowInsecure=0&encryption=none&type=tcp&host=play.google.com&path=/&headerType=http#@sogoandfuckyourlove
+vless://08d6280b-90c8-41e1-a809-3132cfb706f5@37.139.33.57:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=6419bed7fd0a2cff#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B2%20%7C%20%40BigSmoke_Config%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%88%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7
 vless://08d6280b-90c8-41e1-a809-3132cfb706f5@90.156.217.130:8443?security=reality&encryption=none&pbk=_CjW0Khlrr5z5oc9Oy6-w2ZEanz-zMBktVn5EOX9oTM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=4ffc99daad0f261f#%40SwagMeli%20688
 vless://195ec880-d140-4265-aec7-47d0429407ed@do.jadhap.ir:45595?security=none&allowInsecure=0&encryption=none&type=tcp&host=zula.ir&path=/&headerType=http#@sogoandfuckyourlove
 vless://1c7fcc38-e6be-43c5-875f-b8de2516b9f2@5.182.38.91:17267?security=reality&encryption=none&pbk=SnWZg6ORcQepuWLI1EVCTTVc4KyfDiGWR4o_CXCMhgk&headerType=none&fp=chrome&type=tcp&sni=yahoo.com&sid=4ae260#%40SwagMeli%20693
@@ -29,6 +31,7 @@ vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.136:9830?security=none&a
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.236:9828?security=none&allowInsecure=0&encryption=none&type=tcp&host=pro30afzar.com&path=/&headerType=http#@sogoandfuckyourlove
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.238:9829?security=none&allowInsecure=0&encryption=none&type=tcp&host=pro30afzar.com&path=/&headerType=http#@sogoandfuckyourlove
 vless://6fe32852-5f46-4090-8306-f5b419d6a469@85.133.197.60:9831?security=none&allowInsecure=0&encryption=none&type=tcp&host=pro30afzar.com&path=/&headerType=http#@sogoandfuckyourlove
+vless://7e2b2894-3b5c-4b65-acc5-e1784f4047f2@146.185.240.23:443?security=reality&encryption=none&pbk=zii4nGNapnFKL6SN8GzWNqFlElBvUCUFUThEP0kFH04&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=m.vk.ru&sid=205748bc0f24a747#%F0%9F%87%A9%F0%9F%87%AAAll%C2%B9%20%7C%20%40BigSmoke_Config%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%D9%88%20%D8%B1%D9%88%D8%A8%DB%8C%DA%A9%D8%A7
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.116:8880?security=none&allowInsecure=0&encryption=none&type=grpc#@sogoandfuckyourlove
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?mode=gun&security=none&encryption=none&fp=chrome&type=grpc#%40SwagMeli%20689
 vless://8dc7722c-2767-4eea-a28b-2f8daacc07e3@45.82.251.208:8880?security=none&allowInsecure=0&encryption=none&type=grpc#@sogoandfuckyourlove
